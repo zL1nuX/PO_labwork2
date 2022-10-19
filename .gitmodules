@@ -1,0 +1,6 @@
+[submodule "Pillow"]
+	path = Pillow
+	url = https://github.com/python-pillow/Pillow
+[submodule "flask"]
+	path = flask
+	url = https://github.com/pallets/flask
